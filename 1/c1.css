@@ -1,0 +1,38 @@
+header> h1{
+    background-color: beige;
+}
+header> h1:hover{
+    background-color: lightblue;
+}
+header{
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+nav{
+    background-color: lightgray;
+    padding: 10px;
+}
+nav:hover{
+    background-color: gray;
+}
+#contact{
+   
+    color: black;
+    text-align-last: left;
+    font-size: 20px;
+}
+#techstack
+{
+    color: black;
+    text-align-last: left;
+    font-size: 20px;
+}
+#techstack:hover
+{
+    background-repeat: space;
+}
+#contact:hover
+{
+    background-repeat: space;
+    color:brown ;
+}
